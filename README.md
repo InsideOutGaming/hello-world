@@ -1,4 +1,4 @@
 # hello-world
-# Just Another repository
+Just Another repository
 # Hello 
 #  I am just a gamer.
